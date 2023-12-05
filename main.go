@@ -5,8 +5,9 @@ import (
 	"enigma-laundry/entity"
 	"errors"
 	"fmt"
-	_ "github.com/lib/pq"
 	"time"
+
+	_ "github.com/lib/pq"
 )
 
 const (
